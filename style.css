@@ -1,0 +1,36 @@
+iframe{
+    width: 384px;
+    height: 216px;
+    position: absolute;
+}
+
+.a{
+    margin-top: 270px;
+    rotate: 270deg;
+}
+
+.b{
+    margin-top: 270px;
+    margin-left: 1095px;
+    rotate: 90deg;
+}
+
+.c{
+    margin-left: 547.5px;
+}
+
+.d{
+    margin-left: 547.5px;
+    margin-top: 560px;
+    rotate: 180deg;
+}
+
+.e{
+    position: absolute;
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    margin-left: 735px;
+    margin-top: 362.5px;
+}
